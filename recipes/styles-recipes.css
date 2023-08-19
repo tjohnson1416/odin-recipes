@@ -11,6 +11,7 @@ h1 {
 h2.description {
     font-size: 36px;
     text-align: center;
+    background-color: rgb(150,150,150);
 }
 
 p.description {
@@ -30,6 +31,7 @@ p.description {
 h2.ingredients {
     font-size: 36px;
     text-align: center;
+    background-color: rgb(150,150,150);
 }
 
 p.ingredients {
@@ -44,6 +46,7 @@ p.ingredients {
 h2.instructions {
     font-size: 36px;
     text-align: center;
+    background-color: rgb(150,150,150);
 }
 
 p.instructions {
@@ -56,4 +59,5 @@ p.instructions {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(70,70,70);
     text-align: center;
+    background-color: yellow;
 }
