@@ -1,0 +1,59 @@
+h1 {
+    font-size: 40px;
+    color: rgb(45,45,45);
+    text-align: center;
+}
+
+.description {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2.description {
+    font-size: 36px;
+    text-align: center;
+}
+
+p.description {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.title-img {
+    width: 300px;
+    height: auto;
+}
+
+.ingredients {
+    font-family:'Courier New', Courier, monospace;
+}
+
+h2.ingredients {
+    font-size: 36px;
+    text-align: center;
+}
+
+p.ingredients {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.instructions {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2.instructions {
+    font-size: 36px;
+    text-align: center;
+}
+
+p.instructions {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.yield {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(70,70,70);
+    text-align: center;
+}
